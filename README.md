@@ -1,7 +1,7 @@
 ### Kaito Miyagawa
-01(21)/🇯🇵🎾
-🤖 AI Engineer(data-science)
-🏫 TokyoCity University
+01(21)/🇯🇵🎾  <br>
+🤖 AI Engineer(data-science)  <br>
+🏫 TokyoCity University  <br>
 😎 dirving/spa/golf/training
 
 <p align="left">
