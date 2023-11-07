@@ -1,9 +1,7 @@
-### Kaito Miyagawa
+# Kaito Miyagawa
 01(21)/🇯🇵🎾  <br>
-🤖 AI Engineer(data-science)  <br>
-🏫 TokyoCity University  <br>
-😎 dirving/spa/golf/training
-
+🏁 AI Engineer(data-scientist)  <br>
+🏫 Tokyo City University  <br>
 <p align="left">
   <img alt="cacao sstats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=dracula" />
   <img alt="Top Lngs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&layout=compact&show_icons=true&theme=onedark" />
