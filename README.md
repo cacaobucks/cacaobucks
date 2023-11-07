@@ -38,4 +38,4 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks)](https://github.com/cacaobucks/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks)]
