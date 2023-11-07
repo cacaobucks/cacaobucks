@@ -1,7 +1,7 @@
-###Hi! My name is Kaito Miyagawa
+Hi! My name is Kaito Miyagawa
 ======================================================================================================================================
 
-###Data Scientist
+Data Scientist
 --------------
 
 We deeply appreciate you taking a look at our profile! I am currently a 4th year university student at Tokyo City University. After graduating from the university, I plan to go on to graduate school majoring in data science and machine learning. I am "okay. Everything will be fine." I am working hard at programming every day to make my life the best it can be. Let's make your life a blast together!
