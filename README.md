@@ -36,3 +36,8 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
     <img height="20" src="https://qiita-badge.apiapi.app/s/cacaobucks/contributions.svg" />
   </a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cacaobucks=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cacaobucks=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cacaobucks=anuraghazra&show_icons=true)
