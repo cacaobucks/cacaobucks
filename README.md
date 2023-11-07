@@ -1,5 +1,4 @@
 # Kaito Miyagawa
-01(21)/🇯🇵🎾  <br>
 🏁 AI Engineer(data-scientist)  <br>
 🏫 Tokyo City University  <br>
 <p align="left">
