@@ -39,5 +39,6 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&hide_progress=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=onedark)
 
