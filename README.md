@@ -20,6 +20,9 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
   <a href="http://twitter.com/cacaobucks">
     <img height="20" src="https://img.shields.io/twitter/follow/cacaobucks?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="http://instagram.com/kakaobucks">
+    <img height="20" src="https://img.shields.io/instagram/follow/kakaobucks?label=Instagram&logo=instgram&style=flat" />
+  </a>
   <a href="https://github.com/cacaobucks">
     <img height="20" src="https://img.shields.io/github/followers/cacaobucks?label=follow&logo=github&style=flat" />
   </a>
@@ -28,12 +31,6 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
   </a>
   <a href="https://stackoverflow.com/users/5720201/cacaobucks">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/cacaobucks?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/cacaobucks">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/cacaobucks/posts.svg" />
-  </a>
-  <//qiita.com/cacaobucks">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/cacaobucks/contributions.svg" />
   </a>
 </p>
 
