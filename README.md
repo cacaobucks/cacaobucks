@@ -13,7 +13,7 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
 * 🤝  I'm open to collaborating on Data Analysis and Forecasting.
 * ⚡  Hobbies : Sauna,Golf,Tennis,Travel.
 
-<<p align="left">
+<p align="left">
   <a href="https://github.com/cacaobucks/cacaobucks/">
     <img src="https://komarev.com/ghpvc/?username=cacaobucks" alt="cacaobucks" />
   </a>
@@ -21,7 +21,7 @@ We deeply appreciate you taking a look at our profile! I am currently a 4th year
     <img height="20" src="https://img.shields.io/twitter/follow/cacaobucks?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://instagram.com/kakaobucks">
-    <img height="20" src="https://img.shields.io/instagram/follow/kakaobucks?label=Instagram&logo=instagram&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 </p>
 
