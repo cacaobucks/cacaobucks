@@ -15,4 +15,4 @@
 </a>
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=oldie)
+![](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=oldie)
