@@ -8,7 +8,7 @@
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cacaobucks" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cacaobucks" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cacaobucks&layout=compact&langs_count=8&card_width=500" />
