@@ -10,5 +10,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&layout=compact&theme=synthwave)
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks)](https://github.com/cacaobucks/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=radical)](https://github.com/cacaobucks/github-profile-trophy)
 
