@@ -7,8 +7,10 @@
 </p>
 
 ## Stats
-![](http://github-readme-stas.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
-![](http://github-readme-stas.vercel.app/api/cards/repos-per-language?username=cacaobucks&theme=synthwave)
-![](http://github-readme-stas.vercel.app/api/cards/most-commit-language?username=cacaobucks&theme=synthwave)
-![](http://github-readme-stas.vercel.app/api/cards/stats?username=cacaobucks&theme=synthwave)
-![](http://github-readme-stas.vercel.app/api/cards/productive-time?username=cacaobucks&theme=synthwave&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cacaobucks&theme=synthwave&utcOffset=8)
+
+
