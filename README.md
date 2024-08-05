@@ -7,6 +7,8 @@
 </p>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&theme=ambient_gradient&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cacaobucks&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cacaobucks&theme=synthwave&utcOffset=8)
