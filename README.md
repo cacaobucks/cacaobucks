@@ -7,10 +7,10 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=oldie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&theme=oldie)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=oldie)
 
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=oldie)
+![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=oldie)
