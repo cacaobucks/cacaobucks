@@ -1,12 +1,4 @@
-![download](https://github.com/cacaobucks/cacaobucks/assets/110584408/e84b0369-cff9-47a9-a05d-1d1d7490b140)
-
-Hi! My name is Kaito Miyagawa
-======================================================================================================================================
-
-Data Scientist
---------------
-
-We deeply appreciate you taking a look at our profile! I am currently a 4th year university student at Tokyo City University. After graduating from the university, I plan to go on to graduate school majoring in data science and machine learning. I am "okay. Everything will be fine." I am working hard at programming every day to make my life the best it can be. Let's make your life a blast together!
+![Uploading IMG_2244.jpg…]()
 
 
 <p align="left">
