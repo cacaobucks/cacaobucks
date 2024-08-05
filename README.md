@@ -7,6 +7,6 @@
 </p>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobuks&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=radical)
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=oldie)
