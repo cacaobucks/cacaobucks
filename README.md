@@ -14,8 +14,9 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cacaobucks&layout=compact&langs_count=8&card_width=320" />
   </a>
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default"&card_width="100%" />
+  <img height="200" style="flex: 1; max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default" />
 </div>
+
 
 
 ## Trophy
