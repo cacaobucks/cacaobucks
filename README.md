@@ -7,7 +7,7 @@
 </p>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaobucks&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=synthwave)
 
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
