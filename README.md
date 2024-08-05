@@ -16,8 +16,3 @@
   </a>
   <img height="200" style="flex: 1; max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=ambient_gradient_icons=true" />
 </div>
-
-
-
-## Trophy
-![](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=oldie)
