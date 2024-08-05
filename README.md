@@ -4,13 +4,6 @@
 <p align="left">
   <a href="https://github.com/cacaobucks/cacaobucks/">
     <img src="https://komarev.com/ghpvc/?username=cacaobucks" alt="cacaobucks" />
-  </a>
-  <a href="http://twitter.com/cacaobucks">
-    <img height="20" src="https://img.shields.io/twitter/follow/cacaobucks?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="http://instagram.com/kakaobucks">
-    <img height="20" src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram" alt="Instagram" />
-  </a>
 </p>
 
 ### Skills
