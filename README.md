@@ -9,9 +9,6 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&layout=compact&theme=synthwave)
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks)](https://github.com/cacaobucks/github-profile-trophy)
 
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cacaobucks&theme=synthwave)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cacaobucks&theme=synthwave)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cacaobucks&theme=synthwave)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cacaobucks&theme=synthwave&utcOffset=8)
