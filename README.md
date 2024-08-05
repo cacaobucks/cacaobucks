@@ -1,4 +1,4 @@
-![Uploading IMG_2244.jpg…]()
+![Profile Image](https://github.com/cacaobucks/cacaobucks/blob/main/IMG_2244.jpg?raw=true)
 
 
 <p align="left">
