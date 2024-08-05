@@ -7,13 +7,8 @@
 </p>
 
 ## Stats
-<p align="center"> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-</p>
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&aligin="center")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&aligin="center")
 
 
 ## Trophy
