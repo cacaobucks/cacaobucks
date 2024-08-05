@@ -7,12 +7,14 @@
 </p>
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cacaobucks" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cacaobucks&layout=compact&langs_count=8&card_width=500" />
-</a>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=cacaobucks&hide=contribs,prs" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cacaobucks&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 ## Trophy
 ![](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=oldie)
