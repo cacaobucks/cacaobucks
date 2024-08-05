@@ -8,7 +8,7 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&theme=synthwave)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&layout=compact&theme=synthwave)
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&theme=synthwave)
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cacaobucks&theme=synthwave)
