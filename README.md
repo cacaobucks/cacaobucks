@@ -7,7 +7,7 @@
 </p>
 
 ## Stats
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&aligin="center")
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&aligin="center")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaobucks&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&aligin="center")
 
