@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/cacaobucks/cacaobucks/blob/main/IMG_2244.jpg?raw=true)
+![Profile Image](https://github.com/cacaobucks/cacaobucks/blob/main/githubPFhead.png?raw=true)
 
 
 <p align="left">
