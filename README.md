@@ -12,3 +12,5 @@
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=cacaobucks&theme=radical)](https://github.com/cacaobucks/github-profile-trophy)
 
+## Recent listennig music 🎶
+[https://github-profile-apple-music.web.app/api/v1/users/QnWLAS0Fu6yaMPGpdSIx/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QnWLAS0Fu6yaMPGpdSIx/recent/played/tracks?template=template_1_1)
